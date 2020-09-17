@@ -1,0 +1,26 @@
+{
+    "files.associations": {
+        "system_error": "c",
+        "type_traits": "c",
+        "typeinfo": "c",
+        "editor.fontSize": 18,
+        "terminal.integrated.shellArgs.windows": [
+            "/K chcp 65001 >nul"
+        ],
+        "terminal.integrated.fontFamily": "Lucida Console",
+        "stack.h": "c",
+        "stdio.h": "c",
+        "3.C": "cpp",
+        "handle.h": "c",
+        "timer.h": "c",
+        "M1_ID.C": "cpp",
+        "random": "c",
+        "string": "c",
+        "array": "c",
+        "functional": "c",
+        "tuple": "c",
+        "utility": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled",
+    "cmake.configureOnOpen": true
+}
